@@ -2,6 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16f83df9-7ff3-47dc-87dd-b1f35c1329a6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kodilla/good/patterns/challenges/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kodilla/good/patterns/challenges/GuitarInformationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kodilla/good/patterns/challenges/GuitarPurchaseRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kodilla/good/patterns/challenges/GuitarPurchaseService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kodilla/good/patterns/challenges/InformationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kodilla/good/patterns/challenges/ProductOrderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kodilla/good/patterns/challenges/PurchaseDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kodilla/good/patterns/challenges/PurchaseRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kodilla/good/patterns/challenges/PurchaseRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kodilla/good/patterns/challenges/PurchaseRequestRetriever.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kodilla/good/patterns/challenges/PurchaseService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kodilla/good/patterns/challenges/RentalProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kodilla/good/patterns/challenges/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,6 +31,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -47,7 +62,20 @@
       <recent name="C:\Users\IBM\IdeaProjects\kodilla-good-patterns\src\main\java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PrintingMovies">
+  <component name="RunManager" selected="Application.Application">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kodilla.good.patterns.challenges.Application" />
+      <module name="kodilla-good-patterns.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kodilla.good.patterns.challenges.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PrintingMovies" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.kodilla.good.patterns.challenges.PrintingMovies" />
       <module name="kodilla-good-patterns.main" />
@@ -76,6 +104,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Application" />
         <item itemvalue="Application.PrintingMovies" />
         <item itemvalue="Application.StringMovies" />
       </list>
@@ -91,7 +120,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1589044844794</updated>
-      <workItem from="1589044861390" duration="9793000" />
+      <workItem from="1589044861390" duration="10590000" />
+      <workItem from="1589232390823" duration="2576000" />
+      <workItem from="1589286894992" duration="9754000" />
+      <workItem from="1589318424290" duration="2030000" />
     </task>
     <servers />
   </component>
@@ -99,29 +131,33 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="569" y="130" key="#com.intellij.ide.util.MemberChooser" timestamp="1589056054189">
+    <state x="569" y="130" key="#com.intellij.ide.util.MemberChooser" timestamp="1589292318294">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="569" y="130" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1589056054189" />
+    <state x="569" y="130" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1589292318294" />
     <state x="580" y="184" key="FileChooserDialogImpl" timestamp="1589050299067">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="580" y="184" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1589050299067" />
-    <state width="1556" height="218" key="GridCell.Tab.0.bottom" timestamp="1589058960485">
+    <state width="1556" height="218" key="GridCell.Tab.0.bottom" timestamp="1589144981344">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1556" height="218" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1589058960485" />
-    <state width="1556" height="218" key="GridCell.Tab.0.center" timestamp="1589058960484">
+    <state width="1556" height="218" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1589144981344" />
+    <state width="1556" height="218" key="GridCell.Tab.0.center" timestamp="1589144981344">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1556" height="218" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1589058960484" />
-    <state width="1556" height="218" key="GridCell.Tab.0.left" timestamp="1589058960484">
+    <state width="1556" height="218" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1589144981344" />
+    <state width="1556" height="218" key="GridCell.Tab.0.left" timestamp="1589144981343">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1556" height="218" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1589058960484" />
-    <state width="1556" height="218" key="GridCell.Tab.0.right" timestamp="1589058960484">
+    <state width="1556" height="218" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1589144981343" />
+    <state width="1556" height="218" key="GridCell.Tab.0.right" timestamp="1589144981344">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1556" height="218" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1589058960484" />
+    <state width="1556" height="218" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1589144981344" />
+    <state x="361" y="254" key="com.intellij.ide.util.TipDialog" timestamp="1589318541245">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="361" y="254" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1589318541245" />
   </component>
 </project>
