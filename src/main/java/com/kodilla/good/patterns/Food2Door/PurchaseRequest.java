@@ -4,19 +4,19 @@ import java.time.LocalDateTime;
 
 public class PurchaseRequest {
 
-    private Producer producer;
+    private String nameOfProducer;
     private String product;
     private LocalDateTime dateOfPurchase;
     private LocalDateTime dateOfDelivery;
 
-    public PurchaseRequest(Producer producer,String product, LocalDateTime dateOfPurchase, LocalDateTime dateOfDelivery) {
-        this.producer = producer;
+    public PurchaseRequest(String nameOfProducer,String product, LocalDateTime dateOfPurchase, LocalDateTime dateOfDelivery) {
+        this.nameOfProducer = nameOfProducer;
         this.dateOfPurchase = dateOfPurchase;
         this.dateOfDelivery = dateOfDelivery;
     }
 
-    public Producer getProducer() {
-        return producer;
+    public String getNameOfProducer() {
+        return nameOfProducer;
     }
 
     public String getProduct() {

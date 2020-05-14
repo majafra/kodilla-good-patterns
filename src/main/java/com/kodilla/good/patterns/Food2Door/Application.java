@@ -8,6 +8,6 @@ public class Application {
         PurchaseRequest purchaseRequest = purchaseRequestRetriever.retrieve();
         
         PurchaseProcessor purchaseProcessor = new PurchaseProcessor();
-        purchaseProcessor.DifferentProducerProcess(purchaseRequest);
+        purchaseProcessor.differentProducerProcess(purchaseRequest);
     }
 }

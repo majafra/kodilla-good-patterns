@@ -2,22 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16f83df9-7ff3-47dc-87dd-b1f35c1329a6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/kodilla/good/patterns/Food2Door/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/kodilla/good/patterns/Food2Door/ExtraFoodShop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/kodilla/good/patterns/Food2Door/GlutenFreeShop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/kodilla/good/patterns/Food2Door/HealthyShop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/kodilla/good/patterns/Food2Door/Producer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/kodilla/good/patterns/Food2Door/PurchaseProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/kodilla/good/patterns/Food2Door/PurchaseRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/kodilla/good/patterns/Food2Door/PurchaseRequestRetriever.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kodilla/good/patterns/Food2Door/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kodilla/good/patterns/Food2Door/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kodilla/good/patterns/Food2Door/PurchaseProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kodilla/good/patterns/Food2Door/PurchaseProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kodilla/good/patterns/Food2Door/PurchaseRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kodilla/good/patterns/Food2Door/PurchaseRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kodilla/good/patterns/Food2Door/PurchaseRequestRetriever.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kodilla/good/patterns/Food2Door/PurchaseRequestRetriever.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,7 +128,8 @@
       <workItem from="1589232390823" duration="2576000" />
       <workItem from="1589286894992" duration="9754000" />
       <workItem from="1589318424290" duration="3623000" />
-      <workItem from="1589397948460" duration="6313000" />
+      <workItem from="1589397948460" duration="6998000" />
+      <workItem from="1589461825472" duration="4918000" />
     </task>
     <servers />
   </component>
@@ -147,33 +137,33 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="569" y="130" key="#com.intellij.ide.util.MemberChooser" timestamp="1589403569472">
+    <state x="569" y="130" key="#com.intellij.ide.util.MemberChooser" timestamp="1589464684093">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="569" y="130" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1589403569472" />
+    <state x="569" y="130" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1589464684093" />
     <state x="580" y="184" key="FileChooserDialogImpl" timestamp="1589050299067">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="580" y="184" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1589050299067" />
-    <state width="1556" height="218" key="GridCell.Tab.0.bottom" timestamp="1589324024190">
+    <state width="1556" height="218" key="GridCell.Tab.0.bottom" timestamp="1589406770246">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1556" height="218" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1589324024190" />
-    <state width="1556" height="218" key="GridCell.Tab.0.center" timestamp="1589324024176">
+    <state width="1556" height="218" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1589406770246" />
+    <state width="1556" height="218" key="GridCell.Tab.0.center" timestamp="1589406770245">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1556" height="218" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1589324024176" />
-    <state width="1556" height="218" key="GridCell.Tab.0.left" timestamp="1589324024175">
+    <state width="1556" height="218" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1589406770245" />
+    <state width="1556" height="218" key="GridCell.Tab.0.left" timestamp="1589406770245">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1556" height="218" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1589324024175" />
-    <state width="1556" height="218" key="GridCell.Tab.0.right" timestamp="1589324024190">
+    <state width="1556" height="218" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1589406770245" />
+    <state width="1556" height="218" key="GridCell.Tab.0.right" timestamp="1589406770245">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1556" height="218" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1589324024190" />
-    <state x="361" y="254" key="com.intellij.ide.util.TipDialog" timestamp="1589397973013">
+    <state width="1556" height="218" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1589406770245" />
+    <state x="361" y="254" key="com.intellij.ide.util.TipDialog" timestamp="1589462912716">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="361" y="254" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1589397973013" />
+    <state x="361" y="254" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1589462912716" />
   </component>
 </project>
