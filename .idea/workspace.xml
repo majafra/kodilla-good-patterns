@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16f83df9-7ff3-47dc-87dd-b1f35c1329a6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kodilla/good/patterns/flights/Flight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kodilla/good/patterns/flights/FlightSearchProcess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kodilla/good/patterns/flights/FlightsSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kodilla/good/patterns/flights/ListOfFlights.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/kodilla/good/patterns/Food2Door/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kodilla/good/patterns/Food2Door/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/kodilla/good/patterns/Food2Door/PurchaseProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kodilla/good/patterns/Food2Door/PurchaseProcessor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/kodilla/good/patterns/Food2Door/PurchaseRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kodilla/good/patterns/Food2Door/PurchaseRequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/kodilla/good/patterns/Food2Door/PurchaseRequestRetriever.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kodilla/good/patterns/Food2Door/PurchaseRequestRetriever.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +52,7 @@
       <recent name="C:\Users\IBM\IdeaProjects\kodilla-good-patterns\src\main\java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Application (1)">
+  <component name="RunManager" selected="Application.FlightSearchProcess">
     <configuration name="Application (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.kodilla.good.patterns.Food2Door.Application" />
       <module name="kodilla-good-patterns.main" />
@@ -72,6 +72,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.kodilla.good.patterns.challenges.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FlightSearchProcess" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kodilla.good.patterns.flights.FlightSearchProcess" />
+      <module name="kodilla-good-patterns.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kodilla.good.patterns.flights.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,6 +120,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FlightSearchProcess" />
         <item itemvalue="Application.Application (1)" />
         <item itemvalue="Application.Application" />
         <item itemvalue="Application.PrintingMovies" />
@@ -129,7 +143,8 @@
       <workItem from="1589286894992" duration="9754000" />
       <workItem from="1589318424290" duration="3623000" />
       <workItem from="1589397948460" duration="6998000" />
-      <workItem from="1589461825472" duration="4918000" />
+      <workItem from="1589461825472" duration="5821000" />
+      <workItem from="1589562688889" duration="10954000" />
     </task>
     <servers />
   </component>
@@ -137,33 +152,33 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="569" y="130" key="#com.intellij.ide.util.MemberChooser" timestamp="1589464684093">
+    <state x="569" y="130" key="#com.intellij.ide.util.MemberChooser" timestamp="1589570492142">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="569" y="130" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1589464684093" />
+    <state x="569" y="130" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1589570492142" />
     <state x="580" y="184" key="FileChooserDialogImpl" timestamp="1589050299067">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="580" y="184" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1589050299067" />
-    <state width="1556" height="218" key="GridCell.Tab.0.bottom" timestamp="1589406770246">
+    <state width="1556" height="218" key="GridCell.Tab.0.bottom" timestamp="1589574745209">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1556" height="218" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1589406770246" />
-    <state width="1556" height="218" key="GridCell.Tab.0.center" timestamp="1589406770245">
+    <state width="1556" height="218" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1589574745209" />
+    <state width="1556" height="218" key="GridCell.Tab.0.center" timestamp="1589574745208">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1556" height="218" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1589406770245" />
-    <state width="1556" height="218" key="GridCell.Tab.0.left" timestamp="1589406770245">
+    <state width="1556" height="218" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1589574745208" />
+    <state width="1556" height="218" key="GridCell.Tab.0.left" timestamp="1589574745208">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1556" height="218" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1589406770245" />
-    <state width="1556" height="218" key="GridCell.Tab.0.right" timestamp="1589406770245">
+    <state width="1556" height="218" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1589574745208" />
+    <state width="1556" height="218" key="GridCell.Tab.0.right" timestamp="1589574745209">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1556" height="218" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1589406770245" />
-    <state x="361" y="254" key="com.intellij.ide.util.TipDialog" timestamp="1589462912716">
+    <state width="1556" height="218" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1589574745209" />
+    <state x="361" y="254" key="com.intellij.ide.util.TipDialog" timestamp="1589562747527">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="361" y="254" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1589462912716" />
+    <state x="361" y="254" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1589562747527" />
   </component>
 </project>
